@@ -5,7 +5,7 @@
 
 ### **0x02 代码参考**
 
-```
+```C++
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
